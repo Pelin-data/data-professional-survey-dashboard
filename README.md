@@ -1,4 +1,7 @@
 # Data Professional Survey Dashboard (Power BI)
+## 📸 Dashboard Preview
+
+![Power BI Dashboard Preview](Survey-dashboard-preview.png)
 
 This project is a Power BI dashboard built using real survey data collected from data professionals.
 
